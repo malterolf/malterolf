@@ -2,9 +2,17 @@
   <img src="docs/banner_AD.png" alt="Aortic dissection" width="100%">
 </picture>
 
-# Malte Rolf
+# Malte Rolf <sub>formerly Rolf-Pissarczyk</sub>
 
-Postdoctoral researcher in computational biomechanics at Friedrich-Alexander-Universität Erlangen-Nürnberg and Graz University of Technology. I develop ...
+Postdoctoral researcher at the Institute of Applied Mechanics, Friedrich-Alexander-Universität
+Erlangen-Nürnberg, and the Institute of Biomechanics, Graz University of Technology, where I
+received my PhD in Biomedical Engineering in 2024. Earlier research stays took me to
+UC Berkeley and Stanford University.
+
+I work on multiscale material and computational modeling of arterial tissue, with a focus on
+pathological mechanisms in aortic diseases such as aortic dissection. A second line of my
+research addresses model validation and uncertainty quantification for in silico medicine,
+in particular through Bayesian inference.
 
 **Focus** · Test · Test
 
