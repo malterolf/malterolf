@@ -2,7 +2,8 @@
   <img src="docs/banner_AD.png" alt="Aortic dissection" width="100%">
 </picture>
 
-# Malte Rolf <sub>(formerly Rolf-Pissarczyk)</sub>
+# Malte Rolf
+<sub>(formerly Rolf-Pissarczyk)</sub>
 
 Postdoctoral researcher at the Institute of Applied Mechanics, Friedrich-Alexander-Universität
 Erlangen-Nürnberg, and the Institute of Biomechanics, Graz University of Technology, where I
