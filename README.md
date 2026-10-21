@@ -17,4 +17,4 @@ During my doctoral studies, I spent a year at the University of California, Berk
 - Verification, validation, and uncertainty quantification of in silico models
 - Surrogate-based uncertainty quantification with Bayesian inference
 
-### more on my 🌐 **Website** · [malterolf.github.io](https://malterolf.github.io)
+### more on my 🌐 website: [malterolf.github.io](https://malterolf.github.io)
