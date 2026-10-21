@@ -2,49 +2,21 @@
   <img src="docs/banner_AD.png" alt="Aortic dissection" width="100%">
 </picture>
 
-# Malte Rolf
-<sub>(formerly Rolf-Pissarczyk)</sub>
+## Malte ROLF, PhD
+<sub><i>(formerly Malte Rolf-Pissarczyk)</i></sub>
 
-Postdoctoral researcher at the Institute of Applied Mechanics, Friedrich-Alexander-Universität
-Erlangen-Nürnberg, and the Institute of Biomechanics, Graz University of Technology, where I
-received my PhD in Biomedical Engineering in 2024. Earlier research stays took me to
-UC Berkeley and Stanford University.
+Since March 2025, I have been a postdoctoral researcher at the [Institute of Applied Mechanics](https://www.ltm.tf.fau.de/) at Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany, working within Prof. Ellen Kuhl's European Research Council Advanced Grant *DISCOVER*. I also continue to collaborate closely with the group of Prof. Gerhard A. Holzapfel at the [Institute of Biomechanics](https://www.biomech.tugraz.at/) at Graz University of Technology, Austria. This is where I completed my PhD in Biomedical Engineering with distinction in 2024, and I was fortunate to see my dissertation recognized with several national and international awards.
 
-I work on multiscale material and computational modeling of arterial tissue, with a focus on
-pathological mechanisms in aortic diseases such as aortic dissection. A second line of my
-research addresses model validation and uncertainty quantification for in silico medicine,
-in particular through Bayesian inference.
+During my doctoral studies, I spent a year at the University of California, Berkeley, in 2016 and 2017 as a visiting researcher working with Prof. Panayiotis Papadopoulos, followed by a three-month research stay with Prof. Alison Marsden at Stanford University in 2022. Since then, I have remained connected to Stanford as a sponsored affiliate and currently return regularly for shorter visits to work with Prof. Ellen Kuhl.
 
-**Focus** · Test · Test
+### research interests
 
-**Applications** · aortic diseases · aortic dissection
+- Multiscale material modeling and model discovery for soft tissues
+- Modeling and simulation of diseased arteries, especially aortopathies
+- Growth and remodeling of arterial tissue and regenerative biomaterials
+- Verification, validation, and uncertainty quantification of in silico models
+- Surrogate-based uncertainty quantification with Bayesian inference
 
-**Tools** · JAX · Python · finite element methods
+### more
 
-### Selected publications
-
-**Title of the first paper**  
-M. Rolf, A. Coauthor, B. Coauthor  
-*Journal Name* (2026) · [Paper](https://doi.org/10.xxxx/xxxxx) · [Code](https://github.com/<user>/<repo>)
-
-**Title of the second paper**  
-M. Rolf-Pissarczyk, A. Coauthor, G. A. Holzapfel  
-*Journal Name* (2024) · [Paper](https://doi.org/10.xxxx/xxxxx)
-
-**Title of the third paper**  
-M. Rolf, A. Coauthor  
-*arXiv preprint* (2026) · [Preprint](https://arxiv.org/abs/xxxx.xxxxx)
-
-<details>
-<summary><b>All publications</b></summary>
-
-#### 2026
-- M. Rolf, A. Coauthor. Title. *Journal* (2026). [doi](https://doi.org/10.xxxx/xxxxx)
-
-#### 2025
-- M. Rolf, A. Coauthor. Title. *Journal* (2025). [doi](https://doi.org/10.xxxx/xxxxx)
-
-#### 2024
-- M. Rolf-Pissarczyk, A. Coauthor, G. A. Holzapfel. Title. *Journal* (2024). [doi](https://doi.org/10.xxxx/xxxxx)
-
-</details>
+🌐 **Website** · [malterolf.github.io](https://malterolf.github.io)
